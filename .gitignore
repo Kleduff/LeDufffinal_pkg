@@ -5,3 +5,7 @@
 .Rdata
 .httr-oauth
 .DS_Store
+Butterfly.data.project.Rcheck/
+Butterfly.data.project*.tar.gz
+Butterfly.data.project*.tgz
+inst/doc

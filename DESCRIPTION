@@ -1,0 +1,15 @@
+Package: Butterfly.data.project
+Title: Functions for Butterlfy data set
+Version: 0.0.0.9000
+Authors@R: person("Kandace", "LeDuff", , "kandace.leduff@selu.edu", role = c("aut", "cre"),
+ comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package allows us to use functions to condense semi-large data sets such as the butterlfy data set.
+License: MIT + file LICENSE
+Depends: R (>= 3.0)
+Imports: phytools, tidyverse, ggplot2
+Suggests: knitr, rmarkdown
+VilignetteBuilder: knitr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.9
+VignetteBuilder: knitr

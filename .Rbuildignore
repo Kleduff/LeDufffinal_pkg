@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^Butterfly.data.project\.Rcheck$
+^Butterfly.data.project.*\.tar\.gz$
+^Butterfly.data.project.*\.tgz$
+^LICENSE\.md$
